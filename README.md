@@ -24,12 +24,10 @@ This repository serves as a portfolio of end-to-end data analytics projects. Eac
 
 | Project Title                          | Description                                                                 | Tools Used             |
 |----------------------------------------|-----------------------------------------------------------------------------|------------------------|
-| Zomato vs Swiggy Market Analysis       | Analyzed market share, customer trends, and revenue patterns of top food delivery platforms in India | SQL, Tableau           |
-| E-Commerce Funnel Conversion           | Mapped customer journey through an online store and identified drop-off points | Excel, Tableau         |
-| Product Sales and Revenue Trends       | Explored seasonal patterns and top-performing products across regions       | Python, Excel          |
-| Customer Segmentation and Clustering   | Segmented users based on behavior and created targeted strategies           | Python (pandas, seaborn), SQL |
-| Retention and Churn Analysis           | Identified patterns in user retention and modeled churn risks               | SQL, Power BI          |
-| Business Data Cleaning and Reporting   | Cleaned raw data, resolved nulls, and created business-friendly dashboards  | Excel, Power BI        |
+| Zomato vs Swiggy Market Analysis       | Analyzed market share, customer trends, and revenue patterns of top food delivery platforms in India | Excel, Tableau           |
+| Superstore Customer Returns Analysis           | Mapped customer journey through an online store and identified drop-off points | Excel, Tableau         |
+| Superstore Profit Observations       | Explored seasonal patterns and top-performing products across regions       | Tableau, Excel          |
+| Business Analytics Report   | Segmented users based on behavior and created targeted strategies           |Excel, SQL |
 
 > 🔍 *Each folder contains a README with details, queries, visuals, and business recommendations.*
 
@@ -37,8 +35,7 @@ This repository serves as a portfolio of end-to-end data analytics projects. Eac
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** SQL, Python
-- **Libraries:** pandas, matplotlib, seaborn
+- **Languages:** SQL, Tableau
 - **Tools:** Excel, Tableau, Power BI
 - **Skills:** Data Cleaning, EDA, Dashboarding, Churn Modeling, Funnel Analysis, Segmentation
 
@@ -58,9 +55,9 @@ This repository serves as a portfolio of end-to-end data analytics projects. Eac
 ## 📬 Contact
 
 **Travis**  
-📧 your-email@example.com  
+📧 travis.henderson4@icloud.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/travishenderson4)  
-💻 [GitHub](https://github.com/yourusername)
+💻 [GitHub](https://github.com/thender1408)
 
 ---
 
