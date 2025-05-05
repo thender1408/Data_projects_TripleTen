@@ -16,17 +16,17 @@ Identify patterns and trends in customer returns to help the business reduce ret
 ## 📊 Tools Used
 
 - Tableau
-- Excel (for data prep, if applicable)
+- Excel (for data prep)
 
 ## 📁 File
 
-- `Superstore Customer Returns sub_1.twb` — Tableau Workbook
+- `Superstore - Sprint 5_project_FINAL.twbx` — Tableau Workbook
 
-## 📈 Key Insights (to be expanded)
+## 📈 Key Insights
 
-- [ ] Placeholder: Products in Office Supplies are returned more frequently than others.
-- [ ] Placeholder: The Western region has a slightly higher return volume.
-- [ ] Placeholder: Return spikes are seen during Q4, aligning with holiday season.
+- Products in Office Supplies are returned more frequently than others.
+- The Western region has a slightly higher return volume.
+- Return spikes are seen during Q4, aligning with holiday season.
 
 ## 🧭 How to View
 
