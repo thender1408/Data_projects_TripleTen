@@ -30,7 +30,7 @@ Identify patterns and trends in customer returns to help the business reduce ret
 
 ## 🧭 How to View
 
-1. Open the `.twb` file in Tableau Desktop.
+1. Open the `.twbx` file in Tableau Desktop.
 2. Explore the dashboard views (e.g., Return by Region, Return Rate by Category).
 
 ---
