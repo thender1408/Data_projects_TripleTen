@@ -35,4 +35,4 @@ Identify patterns and trends in customer returns to help the business reduce ret
 
 ---
 
-*Add screenshots of key dashboards or link to Tableau Public if published.*
+https://public.tableau.com/views/Superstore-Sprint5_project_FINAL/VisualContainers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
